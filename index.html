@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link
+      href="https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap"
+      rel="stylesheet">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+   <link rel="stylesheet" href="style.css">
+   <title>Tres en raya</title>
+</head>
+
+<body>
+   <div class="tablero">
+      <div class="encabezado">
+         <div style="display: flex; flex-direction: row; gap: 6px;">
+            <div style="width: 30px;" id="piezaSiguiente1"><img style="width: 100%;" src="./img/x.png" alt="x"></div>
+            <div style="width: 30px;" id="piezaSiguiente2"><img style="width: 100%;" src="./img/o.png" alt="o"></div>
+         </div>
+         <button id="reload" style="width: 40px; margin-bottom: 15px; box-shadow: 0px 4px 0px gray; "><img style="width: 100%;"
+               src="./img/reload.png" alt="reload"></button>
+      </div>
+      <div class="casillas">
+         <div class="recuadro">
+
+            <img class="o" src="./img/o.png" alt="o">
+            <img class="x" src="./img/x.png" alt="x">
+
+         </div>
+         <div class="recuadro"> <img class="o" src="./img/o.png" alt="o">
+            <img class="x" src="./img/x.png" alt="x">
+         </div>
+         <div class="recuadro"> <img class="o" src="./img/o.png" alt="o">
+            <img class="x" src="./img/x.png" alt="x">
+         </div>
+         <div class="recuadro"> <img class="o" src="./img/o.png" alt="o">
+            <img class="x" src="./img/x.png" alt="x">
+         </div>
+         <div class="recuadro"> <img class="o" src="./img/o.png" alt="o">
+            <img class="x" src="./img/x.png" alt="x">
+         </div>
+         <div class="recuadro"> <img class="o" src="./img/o.png" alt="o">
+            <img class="x" src="./img/x.png" alt="x">
+         </div>
+         <div class="recuadro"> <img class="o" src="./img/o.png" alt="o">
+            <img class="x" src="./img/x.png" alt="x">
+         </div>
+         <div class="recuadro"> <img class="o" src="./img/o.png" alt="o">
+            <img class="x" src="./img/x.png" alt="x">
+         </div>
+         <div class="recuadro"> <img class="o" src="./img/o.png" alt="o">
+            <img class="x" src="./img/x.png" alt="x">
+         </div>
+      </div>
+      <div class="marcador" style="display: flex; flex-direction: row; justify-content: space-between;">
+         <div class="marcInd" style="background-color: #56e168;" id="player1"><span>Player 1</span><span
+               style="font-weight: bolder; font-size: 20px;" id="score1">0</span>
+         </div>
+         <div class="marcInd" style="background-color: #e9e9ed;">
+            <span>Rounds</span><span style="font-weight: bolder; font-size: 20px;" id="tier">0</span>
+         </div>
+         <div class="marcInd" style="background-color: #51a3f7;" id="player2"><span>Player 2</span><span
+               style="font-weight: bolder; font-size: 20px;" id="score2">0</span>
+         </div>
+      </div>
+
+
+   </div>
+
+
+</body>
+<script type="text/javascript" src="java.js"></script>
+
+</html>
