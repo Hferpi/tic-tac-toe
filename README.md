@@ -2,7 +2,7 @@
 <div align="center">
   <img src="img/banner.png" alt="titulo">
 </div>
-
+<br>
 Ejercicio de clase: 
 <br>
 <div align="center">
@@ -21,8 +21,12 @@ Es responsive. 🧮
 <hr>
 <div align="center">
 <h3>algunas imagenes </h3>
-
-  <img>
+<h2 style="text-align: left"> Tablero </h2>
+  <img src="img/im1.png" alt="im1">
+  <h2 style="text-align: left"> Mensaje cuando un jugador gana </h2>
+  <img src="img/im2.png" alt="im2">
+  <h2 style="text-align: left"> Mensaje de empate y marcadores </h2>
+  <img src="img/im3.png" alt="im3">
 </div>
 
   
