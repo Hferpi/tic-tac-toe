@@ -17,16 +17,16 @@ Contiene 3 contadores donde se muestra el resultado actual player1, rounds, play
 Por cada ganador o empate se imprimira una alaert en la pantalla. <br>
 Tambien tiene un boton de restart.  <br>
 Es responsive. 🧮
-
+<br>
 <hr>
 <div align="center">
 <h3>algunas imagenes </h3>  <br>
-<h2 style="text-align: left;"> Tablero </h2>  <br>
-  <img src="img/im1.png" alt="im1"> 
-  <h2 style="text-align: left;"> Mensaje cuando un jugador gana </h2>  <br>
-  <img src="img/im2.png" alt="im2">
-  <h2 style="text-align: left;"> Mensaje de empate y marcadores </h2>  <br>
-  <img src="img/im3.png" alt="im3">
+<h2 align= "left"> Tablero </h2>  <br>
+  <img src="img/im1.png" alt="im1">  <br>
+  <h2 align= "left"> Mensaje cuando un jugador gana </h2>  <br>
+  <img src="img/im2.png" alt="im2"> <br>
+  <h2 align= "left"> Mensaje de empate y marcadores </h2>  <br>
+  <img src="img/im3.png" alt="im3"> 
 </div>
 
   
