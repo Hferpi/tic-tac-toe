@@ -20,12 +20,12 @@ Es responsive. 🧮
 <br>
 <hr>
 <div align="center">
-<h3>algunas imagenes </h3>  <br>
-<h2 align= "left"> Tablero </h2>  <br>
+<h3>ALGUNAS IMAGENES </h3>  <br>
+<h4 align= "left"> 🔵 Tablero </h4>  <br>
   <img src="img/im1.png" alt="im1">  <br>
-  <h2 align= "left"> Mensaje cuando un jugador gana </h2>  <br>
+  <h4 align= "left"> 🔵 Mensaje cuando un jugador gana </h4>  <br>
   <img src="img/im2.png" alt="im2"> <br>
-  <h2 align= "left"> Mensaje de empate y marcadores </h2>  <br>
+  <h4 align= "left"> 🔵 Mensaje de empate y marcadores </h4>  <br>
   <img src="img/im3.png" alt="im3"> 
 </div>
 
